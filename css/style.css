@@ -71,7 +71,7 @@ header #toggle:after{
     width: 100%;
     min-height: 100vh;
     padding: 100px;
-    background: url(/Users/Joatha/Desktop/p/img/foto.jpg);
+    background: url(img/foto.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
